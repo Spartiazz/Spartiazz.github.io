@@ -2,7 +2,8 @@
 
 ---
 
-### Scoring file sensitivity using NLP for Fortuneo Bank. Used by the legal team to filter out non-GDPR complient files.
+### Scoring file sensitivity using NLP for Fortuneo Bank. 
+### Used by the legal team to filter out non-GDPR complient files.
 ## 
 
 [NLP-Scoring](/sample_page)
